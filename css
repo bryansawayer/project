@@ -1,5 +1,6 @@
-nav {
-background-color: dimgray;
-text-align:center;
-margin-top:0;
+body {
+  width:890px;
+  margin:0 auto;
+  font: 12pt Helvitica,"Helvectica, Airal, sans-serif;
+  background:#9ECEF9;
 }
