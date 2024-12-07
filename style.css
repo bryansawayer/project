@@ -2,7 +2,7 @@ body {
   width:890px;
   margin:0 auto;
   font:12pt Helvitica,"Helvectica", Arial, sans-serif;
-  background:#9ECEF9;
+  background:#4FA2F5;
 }
 header{
   h1 {
@@ -10,12 +10,12 @@ font-size: 40px;
 font-family: Arial, Helvetica, sans-serif;
 text-align: center;
 text-transform: uppercase;
-color: #9ECEF9;
+color: #4FA2F5;
 }
 h3 {
 font-size: 20px;
 font-family: Arial, Helvetica, sans-serif; text-align: center;
-color: #9ECEF9;
+color: #4FA2F5;
 }
 nav{
   display:block;
@@ -25,7 +25,7 @@ ul {
     margin: 0; 
     padding: 0; 
     overflow: hidden; 
-    background-color: #9ECEF9; 
+    background-color: #4FA2F5; 
     border-radius: 20px; 
 }
 
@@ -44,11 +44,11 @@ li a {
 
 
 li a:hover:not(.active) {
-    background-color: #9ECEF9; 
+    background-color: #4FA2F5; 
 }
 
 .active {
-    background-color: #9ECEF9; 
+    background-color: #4FA2F5; 
 }
   aside {
     float: center; 
