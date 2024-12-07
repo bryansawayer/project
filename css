@@ -17,11 +17,6 @@ font-size: 30px;
 font-family: Arial, Helvetica, sans-serif; text-align: center;
 color: #000000;
 }
-h4 {
-font-size: 20px;
-font-family: Arial, Helvetica, sans-serif; text-align: center;
-color: #000000;
-}
 nav{
   display:block;
 }
@@ -56,12 +51,12 @@ li a:hover:not(.active) {
     background-color: #4CAF50; 
 }
   aside {
-    float: left; /* Positions the aside element to the left */
-    width: 420px; /* Sets the width of the aside element */
-    min-height: 480px; /* Sets a minimum height for the aside element */
-    padding-right: 20px; /* Adds padding to the right of the aside element */
-    padding-top: 20px; /* Adds padding to the top of the aside element */
-    text-align: justify; /* Aligns the text within the aside element to justify */
+    float: center; 
+    width: 420px; 
+    min-height: 480px; 
+    padding-right: 20px;
+    padding-top: 20px; 
+    text-align: justify; 
 }
 
 #intro-image {
@@ -72,7 +67,6 @@ li a:hover:not(.active) {
     margin: 10px;
 }
 section{
-      element, allowing other floated elements (like aside) to align next to it */
     float: right;
 
     width: 420px;
@@ -84,15 +78,4 @@ section{
 
 
     text-align: justify;
-}
-footer{
-  clear:both;
-  width: 890px;
-  height: 100px;
-  text-align:center;
-}
-#footer-image {
-  height:100px;
-  width:100px;
-  
 }
