@@ -1,5 +1,12 @@
+body{
+  background-color:#F1F1F1;
+}
+header {
+  text-align:center;
+}
 h1 {
-  background-color:gray;
+ 
+background-color:gray;
   text-align: center;
   margin-top: 0;
   text-transfrom:uppercase;
